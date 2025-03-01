@@ -1,0 +1,19 @@
+/* Пользовательские стили */
+:root {
+    --sidebar-width: 300px;
+}
+
+.math {
+    overflow-x: auto;
+}
+
+/* Стили для блоков кода */
+div[class^="highlight"] {
+    border-radius: 5px;
+}
+
+/* Улучшенные стили для заголовков */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}

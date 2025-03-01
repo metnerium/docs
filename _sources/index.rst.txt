@@ -1,0 +1,93 @@
+==============================
+Добро пожаловать в мою базу знаний!
+==============================
+
+Обо мне
+-------
+
+Меня зовут Вадим Корниенков (@metnerium). Я full-stack разработчик и технический предприниматель, специализирующийся на создании высоконагруженных систем и блокчейн-решений.
+
+Образование
+~~~~~~~~~~~
+
+- **МГТУ им. Баумана**
+  - Факультет биомедицинской техники
+  - Прикладная информатика
+
+Профессиональная деятельность
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- **Группа Астра**
+  - Инженер-программист
+
+Технологический стек
+-------------------
+
+Языки программирования
+~~~~~~~~~~~~~~~~~~~~~
+
+- C++
+- Python
+- JavaScript/TypeScript
+- C#
+- Java
+
+Фронтенд
+~~~~~~~
+
+- Vue.js
+- Vuetify
+- React
+- HTML5
+- CSS3
+
+Бэкенд и DevOps
+~~~~~~~~~~~~~
+
+- Node.js
+- Docker
+- Kubernetes
+- Linux
+- Bash
+- Git
+
+Структура базы знаний
+-------------------
+
+В этой базе знаний вы найдете информацию по следующим разделам:
+
+.. toctree::
+   :maxdepth: 2
+
+   programming/index
+   projects/index
+   study/index
+
+Разделы
+~~~~~~
+
+- **Programming** - Информация о языках программирования, фреймворках и технологиях
+- **Projects** - Описание проектов, архитектурные решения и примеры кода
+- **Study** - Учебные материалы, заметки и полезные ресурсы
+
+Связаться со мной
+---------------
+
+- **Website**: `metnerium.ru <http://metnerium.ru/>`_
+- **Telegram**: `@metnerium <https://t.me/metnerium>`_
+- **GitHub**: `github.com/metnerium <https://github.com/metnerium>`_
+
+GitHub статистика
+---------------
+
+.. image:: http://github-readme-streak-stats.herokuapp.com?user=metnerium&theme=dark&background=000000
+   :alt: GitHub Streak Stats
+
+.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=metnerium&layout=compact&theme=vision-friendly-dark
+   :alt: GitHub Language Stats
+
+Codewars
+-------
+
+.. image:: https://www.codewars.com/users/meitnerium/badges/large
+   :alt: codewars

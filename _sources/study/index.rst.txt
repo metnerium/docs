@@ -1,0 +1,12 @@
+Учебные материалы
+=================
+
+.. toctree::
+   :maxdepth: 2
+
+   angem/index
+   calculus/index
+   chemistry/index
+   integrals/index
+   linal/index
+   physics/index

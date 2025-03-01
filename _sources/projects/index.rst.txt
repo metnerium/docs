@@ -1,0 +1,9 @@
+Проекты
+=======
+
+.. toctree::
+   :maxdepth: 2
+
+   astraflathub/index
+   diet_tracker/index
+   linote/index

@@ -1,0 +1,14 @@
+Программирование
+================
+
+.. toctree::
+   :maxdepth: 2
+
+   algorithms/index
+   competitive/index
+   databases/index
+   extreme/index
+   ml/index
+   parallel/index
+   system/index
+   web/index

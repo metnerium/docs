@@ -1,0 +1,10 @@
+Chemistry
+=========
+
+.. toctree::
+   :maxdepth: 2
+
+   additional/index
+   exams/index
+   lectures/index
+   practice/index
